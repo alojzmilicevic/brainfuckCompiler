@@ -1,17 +1,18 @@
 # 🧠😂 Brainfuck Compiler 😂🧠
+:computer: Welcome to my BrainFuck compiler project! :nerd_face:
 A small compiler written in C++ for the esoteric programming language brainfuck.
 
 ## 👾😂 What is Brainfuck 😂👾??
 
-Brainfuck is an esoteric programming language created in 1993 by Urban Müller.
 
-Notable for its extreme minimalism, the language consists of only eight simple commands and an instruction pointer. While it is fully Turing complete, it is not intended for practical use, but to challenge and amuse programmers. Brainfuck simply requires one to break commands into microscopic steps.
 
-The language's name is a reference to the slang term brainfuck, which refers to things so complicated or unusual that they exceed the limits of one's understanding.
+BrainFuck is an esoteric programming language that is known for its minimalist design and unconventional syntax. It is often used as a challenge for programmers to implement interpreters or compilers for the language.
 
-## Installation
+This repository contains a BrainFuck compiler that I have written in C++. It is capable of taking BrainFuck code as input and producing an output of the equivalent program written in another programming language. :gear:
 
-TODO add installer
+If you are interested in esoteric programming languages or the process of compiler design, I encourage you to take a look at this project. The code is well-documented and should be easy to understand even if you are new to BrainFuck or compiler design. :book:
+
+I hope you find this project interesting and informative. :nerd_face: If you have any questions or feedback, feel free to leave a comment or submit a pull request. :point_down:
 
 ## Usage
 1. Compile as a normal c++ program
